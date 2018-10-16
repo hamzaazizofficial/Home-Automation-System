@@ -1,6 +1,6 @@
 # instagram.com/redcoders
 # instagram.com/hamzaazizofficial
-#copy the code into Arduino Software
+#paste the code into Arduino Software
 
 String inputs;
 #define relay1 2 
