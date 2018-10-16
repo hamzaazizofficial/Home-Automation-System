@@ -1,5 +1,5 @@
-# Home-Automation-System
-
+## Home-Automation-System
+Check the Circuit Diagram in Issues Block
 Components that i have used in this `Home Automation System`:-
 1. Arduino Uno (You can use any Arduino)
 2. HC-05 Bluetooth Module
